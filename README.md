@@ -1,8 +1,6 @@
 US Accidents Dataset
 
 
-
-US Accidents Dataset​
 This data comprises of data about accidents in US from 2016 to 2023, sourced from Kaggle. This dataset consists of over 7 Billion data points and 46 unique features.​
 
 https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data
@@ -21,3 +19,27 @@ Highly Scalable with the current allowed infrastructure. (added auto scaling pol
 Accuracy of over 94% to predict severity of accident using Random forest Classifier.​
 
 State of the art – business ready architecture and infrastructure utilized.
+
+
+Architecture:- 
+-------------
+
+Google Cloud Platform (GCP) Infrastructure​
+Dataproc Cluster: The core of the architecture involves utilizing Google Cloud Dataproc to create and manage clusters. Dataproc provides a fully managed Apache Spark and Hadoop service, allowing for scalable and efficient data processing.​
+
+PySpark - For distributed data processing, PySpark, the Python API for Apache Spark, is used. It makes it easier to create scalable and parallelized data transformations and analytics that take advantage of the Dataproc cluster's processing capability.​
+
+Hive, a Hadoop data warehouse and SQL-like query language, is integrated into the design. It offers organized querying of the dataset, allowing for the creation of tables and the execution of complicated queries, hence improving data retrieval and analysis performance.​
+
+Solr for Full-Text Search and Indexing
+
+Googler Cloud Storage for storing intermediate results, works in tandem with dataproc for storing the dataset.​
+
+Identity and Access Management (IAM) for providing authorized access to users to manage services.​
+
+Autoscaling policy – set as a policy to scale up VM's by creating new nodes.​
+
+Visualizations using Jupyter Notebook -  this provides a user friendly way to work on the pyspark- python code.​
+
+Apache Solr on GCP DataProc which provides rich indexing and querying capabilities
+
