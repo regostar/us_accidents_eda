@@ -1,5 +1,5 @@
 US Accidents Dataset
-
+----------------------
 
 This data comprises of data about accidents in US from 2016 to 2023, sourced from Kaggle. This dataset consists of over 7 Billion data points and 46 unique features.​
 
