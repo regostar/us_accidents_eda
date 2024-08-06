@@ -57,3 +57,11 @@ Results :-
 
 ![image](https://github.com/user-attachments/assets/45849ad7-0968-4958-8378-56bae4d2c329)
 
+![image](https://github.com/user-attachments/assets/a34c825b-0e73-429b-a173-ff1677702aa7)
+
+![image](https://github.com/user-attachments/assets/6bbe4df9-9420-4ef1-995d-3d166231270d)
+
+For more stats, please view - https://github.com/regostar/us_accidents_eda/blob/main/eda-latest.pdf
+
+
+
