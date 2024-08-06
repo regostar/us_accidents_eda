@@ -3,6 +3,11 @@ Quick Links :-
 
 https://youtu.be/Ms5TEd0rRdo
 
+https://github.com/regostar/us_accidents_eda/blob/main/Presentation.pdf
+
+https://github.com/regostar/us_accidents_eda/blob/main/eda-latest.pdf
+
+
 US Accidents Dataset
 ----------------------
 
@@ -69,6 +74,7 @@ Results :-
 ![image](https://github.com/user-attachments/assets/6bbe4df9-9420-4ef1-995d-3d166231270d)
 
 For more stats, please view - https://github.com/regostar/us_accidents_eda/blob/main/eda-latest.pdf
+
 
 
 
