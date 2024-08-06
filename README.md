@@ -52,6 +52,8 @@ for providing authorized access to users to manage services.​
 #### Apache Solr
 on GCP DataProc which provides rich indexing and querying capabilities
 
+![image](https://github.com/user-attachments/assets/33389efc-2710-4783-90e4-ba72d6a20877)
+
 Results :- 
 -------------
 
