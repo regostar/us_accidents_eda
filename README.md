@@ -78,6 +78,11 @@ Results :-
 
 For more stats, please view - https://github.com/regostar/us_accidents_eda/blob/main/eda-latest.pdf
 
+Contributors :-
+--------------
+
+Jayshyam Reddy
+Harika Samala
 
 
 
