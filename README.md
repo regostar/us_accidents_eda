@@ -81,9 +81,9 @@ For more stats, please view - https://github.com/regostar/us_accidents_eda/blob/
 Contributors :-
 --------------
 
-Jayshyam Reddy
+Jayasyam Reddy Desireddy - Programmed the prediction algorithms. Achieved excellent accuracy using a combination of models.
 
-Harika Samala
+Harika Samala - Contributed to preliminary data analysis and EDA
 
 
 
